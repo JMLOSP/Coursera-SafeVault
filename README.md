@@ -41,7 +41,7 @@ Key Risk Identified
 
 User input was not sanitized before processing or storage.
 
-## 🛠️ 2. Fixes Applied
+## 2. Fixes Applied
 ### 2.1 SQL Injection Mitigation – Parameterized Queries
 
 Using Copilot suggestions, all SQL operations were refactored to use fully parameterized queries through SQLite:
